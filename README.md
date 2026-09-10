@@ -157,19 +157,15 @@ Interactively explore product-related information.
 
 
 ---
-
 👩‍💻 Author
 
 Priyanka Gandhi
 
 Full Stack Developer | Power BI Developer | AI/ML Enthusiast
 
-GitHub:
-https://github.com/PriyankaGandhi24116
+GitHub: "PriyankaGandhi24116" (https://github.com/PriyankaGandhi24116)
 
-LinkedIn:
-https://www.linkedin.com/in/priyanka-gandhi-80abaa430/
-
+LinkedIn: "Priyanka Gandhi" (https://www.linkedin.com/in/priyanka-gandhi-80abaa430/)
 ---
 
 📄 License
