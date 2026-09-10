@@ -163,7 +163,10 @@ Priyanka Gandhi
 
 Full Stack Developer | Power BI Developer | AI/ML Enthusiast
 
-GitHub: "PriyankaGandhi24116" (https://github.com/PriyankaGandhi24116)
+GitHub: "PriyankaGandhi24116"
+🔗 Repository
+
+"View E-Commerce Analytics Dashboard on GitHub" (https://github.com/PriyankaGandhi24116/E-COMMERCE-ANALYTICS-DASHBOARD)
 
 LinkedIn: "Priyanka Gandhi" (https://www.linkedin.com/in/priyanka-gandhi-80abaa430/)
 ---
